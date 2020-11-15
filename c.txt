@@ -1,0 +1,2 @@
+/give @p diamond_pickaxe{Enchantments:[{id:efficiency,lvl:1000000000000000000}]} 1
+/give @p diamond_sword{Enchantments:[{id:sharpness,lvl:1000000000000000000000}} 1
